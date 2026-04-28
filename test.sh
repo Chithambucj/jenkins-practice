@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Hello from GitHub projects."
-Webhook test again
-trigger again
+echo "Webhook test again"
+echo "trigger again"
