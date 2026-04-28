@@ -1,1 +1,1 @@
-echo "Hello from GitHub project"
+echo "Hello from GitHub projects."
